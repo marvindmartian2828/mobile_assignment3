@@ -1,0 +1,96 @@
+<resources>
+    <!-- App Name -->
+    <string name="app_name">30 Days of Chic Luxury</string>
+
+    <!-- Luxury Bag Brands -->
+    <string name="chanel">Chanel</string>
+    <string name="chanel_desc">Chanel represents the epitome of timeless luxury. Known for its quilted leather, gold chain straps, and elegant craftsmanship, Chanel bags symbolize Parisian sophistication.</string>
+
+    <string name="dior">Dior</string>
+    <string name="dior_desc">A fusion of femininity and bold innovation, Dior bags are crafted with refined materials, showcasing classic elegance and contemporary edge.</string>
+
+    <string name="louis_vuitton">Louis Vuitton</string>
+    <string name="louis_vuitton_desc">An icon of high fashion and travel, Louis Vuitton is celebrated for its signature monogram canvas, meticulous craftsmanship, and timeless appeal.</string>
+
+    <string name="gucci">Gucci</string>
+    <string name="gucci_desc">Gucci luxury leather bags blend traditional Italian craftsmanship with contemporary trends, featuring bold logos, exotic textures, and timeless designs.</string>
+
+    <string name="prada">Prada</string>
+    <string name="prada_desc">Minimalistic yet bold, Prada bags are known for their sleek designs, durable nylon, and a perfect balance of function and fashion.</string>
+
+    <string name="hermes">Hermès</string>
+    <string name="hermes_desc">Synonymous with luxury, Hermès bags, including the legendary Birkin and Kelly, are handcrafted masterpieces made with the finest leathers.</string>
+
+    <string name="burberry">Burberry</string>
+    <string name="burberry_desc">A true British classic, Burberry bags are known for their signature checkered designs, high-quality materials, and timeless appeal.</string>
+
+    <string name="balenciaga">Balenciaga</string>
+    <string name="balenciaga_desc">Innovative and unconventional, Balenciaga bags redefine luxury with bold designs, oversized silhouettes, and contemporary aesthetics.</string>
+
+    <string name="ysl">Saint Laurent (YSL)</string>
+    <string name="ysl_desc">Saint Laurent embodies Parisian elegance with sleek, modern leather bags that exude confidence, luxury, and timeless appeal.</string>
+
+    <string name="givenchy">Givenchy</string>
+    <string name="givenchy_desc">A perfect blend of refinement and edginess, Givenchy bags feature structured designs, premium leather, and an effortless high-fashion touch.</string>
+
+    <string name="versace">Versace</string>
+    <string name="versace_desc">Extravagant and glamorous, Versace bags are adorned with bold prints, gold embellishments, and the iconic Medusa logo.</string>
+
+    <string name="valentino">Valentino</string>
+    <string name="valentino_desc">Fusing elegance with rock-chic aesthetics, Valentino bags often feature studded designs, structured silhouettes, and luxurious finishes.</string>
+
+    <string name="fendi">Fendi</string>
+    <string name="fendi_desc">Renowned for the iconic FF monogram and baguette bag, Fendi offers innovative, high-quality designs that exude Italian luxury.</string>
+
+    <string name="mcqueen">Alexander McQueen</string>
+    <string name="mcqueen_desc">Darkly romantic and artistically unique, McQueen bags stand out with edgy details, intricate craftsmanship, and dramatic elegance.</string>
+
+    <string name="offwhite">Off-White</string>
+    <string name="offwhite_desc">Merging streetwear with high fashion, Off-White bags feature industrial aesthetics, bold branding, and innovative design elements.</string>
+
+    <string name="bottega">Bottega Veneta</string>
+    <string name="bottega_desc">Bottega Veneta is renowned for its signature intrecciato woven leather, embodying understated luxury and artisanal craftsmanship.</string>
+
+    <string name="celine">Celine</string>
+    <string name="celine_desc">Effortless elegance meets minimalistic luxury in Celine bags, characterized by clean lines, premium leather, and timeless appeal.</string>
+
+    <string name="goyard">Goyard</string>
+    <string name="goyard_desc">With a heritage of exclusivity, Goyard bags are hand-painted with signature motifs and represent a symbol of refined luxury.</string>
+
+    <string name="jacquemus">Jacquemus</string>
+    <string name="jacquemus_desc">Known for playful yet sophisticated designs, Jacquemus bags make a bold statement with their unique shapes and vibrant colors.</string>
+
+    <string name="maison_margiela">Maison Margiela</string>
+    <string name="maison_margiela_desc">Avant-garde and deconstructed, Margiela bags push boundaries with unique textures, experimental designs, and raw elegance.</string>
+
+    <string name="tom_ford">Tom Ford</string>
+    <string name="tom_ford_desc">Sleek, sophisticated, and glamorous, Tom Ford bags are crafted with precision, exuding confidence and modern luxury.</string>
+
+    <string name="loro_piana">Loro Piana</string>
+    <string name="loro_piana_desc">Loro Piana bags combine unparalleled softness, luxurious cashmere, and impeccable Italian craftsmanship.</string>
+
+    <string name="chloe">Chloé</string>
+    <string name="chloe_desc">Feminine, free-spirited, and effortlessly chic, Chloé bags embrace soft leather, flowing lines, and bohemian luxury.</string>
+
+    <string name="miu_miu">Miu Miu</string>
+    <string name="miu_miu_desc">A playful twist on classic luxury, Miu Miu bags feature unique embellishments, youthful charm, and premium materials.</string>
+
+    <string name="loewe">Loewe</string>
+    <string name="loewe_desc">Loewe combines Spanish heritage with contemporary artistry, creating handcrafted leather bags of the highest quality.</string>
+
+    <string name="salvatore_ferragamo">Salvatore Ferragamo</string>
+    <string name="salvatore_ferragamo_desc">Known for impeccable craftsmanship, Ferragamo bags blend elegance with functionality using fine Italian leather.</string>
+
+    <string name="stella_mccartney">Stella McCartney</string>
+    <string name="stella_mccartney_desc">Luxury meets sustainability in Stella McCartney’s cruelty-free, eco-conscious, and modern bag designs.</string>
+
+    <string name="balmain">Balmain</string>
+    <string name="balmain_desc">Bold, structured, and sophisticated, Balmain bags embody power dressing with a touch of Parisian flair.</string>
+
+    <string name="bvlgari">BVLGARI</string>
+    <string name="bvlgari_desc">Famous for its serpentine designs, BVLGARI bags merge jewelry-inspired elements with timeless luxury.</string>
+
+    <string name="jimmy_choo">Jimmy Choo</string>
+    <string name="jimmy_choo_desc">A brand synonymous with red carpet glamour, Jimmy Choo bags embody high fashion, elegance, and bold femininity.</string>
+
+</resources>
